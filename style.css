@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Dancing+Script:wght@600&family=League+Spartan:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Dancing+Script:wght@600&family=Hanken+Grotesk&family=League+Spartan:wght@400;900&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.menubar{
+    height: 8vh;
+    width: 1400px;
+    background-color: rgb(251, 251, 251);
+    margin: auto;
+    border-radius: 50px;
+}
+.footer {
+    height: 8vh;
+    width: 1400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+body{
+    background-image: url(images/cart7.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bannertext{
+    text-align: center;
+    margin-top: 170px;
+    color: rgb(255, 255, 255);
+}
+.bannertext h2{
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+}
+.bannertext h1{
+    font-size: 120px;
+    font-family: 'League Spartan', sans-serif;
+}
+.bannertext h4{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.pages a{
+    display: inline-block;
+    margin: 5px;
+    margin-right: 10px;
+    float: right;
+    text-decoration: none;
+    margin-top: 23px;
+    color: silver;
+    font-family: 'League Spartan', sans-serif;
+}
+.logo{
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.logo img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+footer h4{
+    display: inline-block;
+    float: left;
+    font-family: 'League Spartan', sans-serif;
+    color: silver;
+    margin-top: 23px;
+    margin-left: 30px;
+}
+footer a{
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+    padding-right: 5PX;
+    margin-top: 23px;
+    color: silver;
+    font-family: 'League Spartan', sans-serif;
+    text-decoration: none;
+}
+.abouttext h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 50px;
+    margin-top: 120px;
+    margin-left: 70px;
+    color: rgb(255, 255, 255);
+}
+.abouttext h4{
+    display: inline-block;
+    background-color: palevioletred;
+    color: rgb(255, 255, 255);
+    font-family: 'Hanken Grotesk', sans-serif;
+    margin-left: 70px;
+    height: 200px;
+    width: 820px;
+    margin-top: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.abouttext img{
+    display: inline-block;
+    float: right;
+    width: 500px;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+.conclusion img{
+    display: inline-block;
+    float: left;
+    width: 500px;
+    margin-left: 90px;
+    margin-top: 120px;
+}
+.conclusion h1{
+    display: inline-block;
+    float: right;
+    color: rgb(255, 255, 255);
+    font-family: 'Hanken Grotesk', sans-serif;
+    margin-right: 90px;
+    margin-top: 150px;
+    font-size: 50px;
+}
+.conclusion h4{
+    display: inline-block;
+    float: right;
+    color: rgb(255, 255, 255);
+    font-family: 'Hanken Grotesk', sans-serif;
+    background-color: palevioletred;
+    height: 200px;
+    width: 820px;
+    margin-top: 250px;
+    margin-right: -275px;
+    border-radius: 10px;
+    text-align: center;
+}
+.introduction h1{
+    display: inline-block;
+    color: rgb(253, 253, 253);
+    font-size: 50px;
+    margin-left: 600px;
+    margin-top: 150px;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.introduction h4{
+    display: inline-block;
+    float: left;
+    color: rgb(255, 255, 255);
+    background-color: palevioletred;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    border-radius: 10px;
+}
+.data h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 50px;
+    margin-left: 725px;
+}
+.data h2{
+    display: inline-block;
+    float: left;
+    color: rgb(251, 251, 251);
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 30px;
+    margin-left: 300px;
+}
+.data h3{
+    display: inline-block;
+    float: right;
+    color: rgb(255, 255, 255);
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 30px;
+    margin-right: 300px;
+}
+.product img{
+    display: inline-block;
+    float: left;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: -260px;
+}
+.gender img{
+    display: inline-block;
+    float: right;
+    width: 600px;
+    margin-top: 70px;
+    margin-right: -270px;
+}
+
+
+
+
+
+
